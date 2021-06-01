@@ -1,6 +1,6 @@
 # Bootcamp Data Science Aplicada
 
-[<img src="https://img.shields.io/badge/author-Carolina%20Dias-ff69b4?style=flat-square"/>](https://github.com/diascarolina)
+[<img src="https://img.shields.io/badge/author-Carolina%20Dias-ff69b4?style=flat-square"/>](https://github.com/GabrielMedeiros32)
 
 ![](https://raw.githubusercontent.com/diascarolina/data-science-bootcamp/main/other/banner_bootcamp.png)
 
