@@ -8,7 +8,7 @@ Bem vindo, neste repositório você terá acesso aos Módulos e Projetos produzi
 
 Ao fim de cada módulo é criado um projeto de pesquisa para o portfólio encontrados na pasta "Projetos" sendo eles:
 
-1 - [Análise dos casos de Covid frente à vacinação, um estudo de caso de Israel e Reino Unido](https://github.com/GabrielMedeiros32/Bootcamp_Data_Science/blob/main/M%C3%B3dulo%201/BootcampM%C3%B3dulo1.ipynb)
+1 - [Análise dos casos de Covid frente à vacinação, um estudo de caso de Israel e Reino Unido](https://github.com/GabrielMedeiros32/Bootcamp_Data_Science/blob/main/Projetos/An%C3%A1liseCovid_19.ipynb)
 
 
 Esse curso é organizado segundo a seguinte ementa:
