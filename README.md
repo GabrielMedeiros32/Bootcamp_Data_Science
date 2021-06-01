@@ -15,4 +15,4 @@ Esse curso é organizado segundo a seguinte ementa:
 
 <img src="Outros/ementa.png">
 
-
+Espero que esse curso seja minha porta de entrada para uma carreira na área de Dados, pois tem aos poucos mudado minha maneira de enxergar o mundo de forma mais crítica, e estou sentindo grande entusiasmo conforme trabalho no assunto.
