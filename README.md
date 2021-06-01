@@ -1,3 +1,3 @@
 # Bootcamp Data Science Aplicada
 
-[[Outros/banner.png]]
+[[/Outros/banner.png]]
