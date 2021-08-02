@@ -10,6 +10,8 @@ Ao fim de cada módulo é criado um projeto de pesquisa para o portfólio encont
 
 1 - [Análise dos casos de Covid frente à vacinação, um estudo de caso de Israel e Reino Unido](https://github.com/GabrielMedeiros32/Bootcamp_Data_Science/blob/main/Projetos/An%C3%A1liseCovid_19.ipynb)
 
+4 - [Uso de diferentes métricas aplicado a Detecção de Fraudes](https://github.com/GabrielMedeiros32/An-lise-de-Fraude)
+
 
 Esse curso é organizado segundo a seguinte ementa:
 
